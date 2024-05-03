@@ -1,3 +1,4 @@
-## Farbpalette ##
+Farbpalette
 
 Rot
+Grün
